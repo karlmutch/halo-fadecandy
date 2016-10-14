@@ -32,7 +32,7 @@ env.scm = 'git'
 
 # Hosts to deploy too
 env.hosts = [
-    '10.193.15.59',
+    '10.193.9.53',
 ]
 
 # Config path
